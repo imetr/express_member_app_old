@@ -12,5 +12,8 @@ This app uses several packages:
 * moment-timezone
 * uuid
 
-![UI Part of the App](/screenshots/api_list_screenshot.jpg)
+![API Part of the App](/screenshots/api_list_screenshot.JPG)
+
+![UI Part of the App](/screenshots/ui_form_screenshot.JPG)
+
 
